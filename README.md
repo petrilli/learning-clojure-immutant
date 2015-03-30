@@ -16,3 +16,10 @@ as needed with pointers to more in-depth material.
 * Leiningen v2.5.1
 * Immutant v2.0.0beta2
 * IntelliJ v14.1 Community Edition w/Cursive
+
+## Proposed Table-of-Contents
+
+1. Installing Dependencies
+2. Tour of Tooling
+3. Starting a Clojure Project
+4. Hello World
